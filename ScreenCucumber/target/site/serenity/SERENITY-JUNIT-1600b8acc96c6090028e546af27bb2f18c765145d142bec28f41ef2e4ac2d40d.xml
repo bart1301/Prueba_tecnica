@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="ingreso pagina Choucair" skipped="0" tests="1" time="23.87" timestamp="2019-12-06 10:44:55"><testcase name="Ingreso menu Faded Short Sleeve T-shirts"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+step_definitions.CompraDelProductoStepDefinitions.usuario_ingresar_a_la_opciones_del_menu(CompraDelProductoStepDefinitions.java:47)&#13;
+✽.Usuario ingresar a la opciones del menu(test.features/CompraDelProducto.feature:6)&#13;
+</system-err></testcase></testsuite>
